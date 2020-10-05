@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fireChat"
+    }
+  },
+  "defaultProject": "fireChat",
+  "cli": {
+    "analytics": "294f286e-b5b7-47a5-b2e0-bce289430130"
+  }
 }
